@@ -1,0 +1,24 @@
+# Exclude the Fawry PDF file
+*.pdf
+
+# Exclude compiled Java classes
+*.class
+
+# Exclude IDE files
+.idea/
+.vscode/
+*.iml
+
+# Exclude OS files
+.DS_Store
+Thumbs.db
+
+# Exclude build directories
+out/
+build/
+target/
+
+# Exclude temporary files
+*.tmp
+*.temp
+*.log
