@@ -2,21 +2,22 @@
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
-2. [System Architecture](#system-architecture)
-3. [Class Documentation](#class-documentation)
-4. [Interface Documentation](#interface-documentation)
-5. [Test Cases Documentation](#test-cases-documentation)
-6. [How to Run](#how-to-run)
-7. [Usage Examples](#usage-examples)
-8. [Design Patterns](#design-patterns)
-9. [Error Handling](#error-handling)
-10. [Assumptions](#assumptions)
+2. [Language Implementations](#language-implementations)
+3. [System Architecture](#system-architecture)
+4. [Class Documentation](#class-documentation)
+5. [Interface Documentation](#interface-documentation)
+6. [Test Cases Documentation](#test-cases-documentation)
+7. [How to Run](#how-to-run)
+8. [Usage Examples](#usage-examples)
+9. [Design Patterns](#design-patterns)
+10. [Error Handling](#error-handling)
+11. [Assumptions](#assumptions)
 
 ---
 
 ## Project Overview
 
-This E-Commerce System is a Java-based console application that implements a complete shopping cart and checkout system. The system supports different types of products with varying characteristics such as expiration dates and shipping requirements.
+This E-Commerce System is a comprehensive multi-language implementation of a complete shopping cart and checkout system. The system supports different types of products with varying characteristics such as expiration dates and shipping requirements. The same business logic and architecture are implemented across **five different programming languages** to demonstrate design patterns and object-oriented principles in various contexts.
 
 ### Key Features
 - **Product Management**: Handles different product types (expirable/non-expirable, shippable/non-shippable)
